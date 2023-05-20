@@ -3,7 +3,7 @@ Visualization of Venice AirBnB data with Tableau.
 
 The panel was built with the aim of optimising the choice of a possible investment in a property to rent on AirBnB, taking into consideration the data of the accommodation already existing on the platform.
 
-The datadata set used is a csv file extract from Inside AirBnb website: http://insideairbnb.com/get-the-data/
+The datadata set used is based on 2 csv files extracted from Inside AirBnb website: http://insideairbnb.com/get-the-data/
 
 The dataset used is dated 07 March 2023.
 
